@@ -1,6 +1,7 @@
-import 'package:first_flutter_app/screens/hotels%20app/hotel_name.dart';
-import 'package:first_flutter_app/screens/hotels%20app/hotel_widget.dart';
 import 'package:flutter/material.dart';
+
+import 'hotel_name.dart';
+import 'hotel_widget.dart';
 
 class HotelsApp extends StatelessWidget{
   @override
