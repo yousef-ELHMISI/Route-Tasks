@@ -5,7 +5,7 @@
 // gestures. You can also use WidgetTester to find child widgets in the widget
 // tree, read text, and verify that the values of widget properties are correct.
 
-import 'package:first_flutter_app/Task_1_whats_screen/base_screen_whats.dart';
+import 'package:first_flutter_app/screens/Task%201%20whats%20screen/base_screen_whats.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
