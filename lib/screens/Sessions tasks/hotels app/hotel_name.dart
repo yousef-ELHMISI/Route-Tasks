@@ -16,13 +16,15 @@ class HotelName extends StatelessWidget{
         decoration: BoxDecoration(
           borderRadius: BorderRadiusGeometry.circular(radius),
           color: Color(0XFF024383),),
-        alignment: Alignment.center,
+        // alignment: Alignment.center,
+        width: double.infinity,
         child: Text(hotelName,
           style: TextStyle(
               color: Colors.white,
               fontSize: 16,
               fontWeight: FontWeight.w700
           ),
+          textAlign: TextAlign.center,
         )
     );
   }
